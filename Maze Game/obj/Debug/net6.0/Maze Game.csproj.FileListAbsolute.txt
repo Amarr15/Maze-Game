@@ -1,0 +1,14 @@
+C:\Users\Amar\source\repos\Maze Game\bin\Debug\net6.0\Maze Game.exe
+C:\Users\Amar\source\repos\Maze Game\bin\Debug\net6.0\Maze Game.deps.json
+C:\Users\Amar\source\repos\Maze Game\bin\Debug\net6.0\Maze Game.runtimeconfig.json
+C:\Users\Amar\source\repos\Maze Game\bin\Debug\net6.0\Maze Game.dll
+C:\Users\Amar\source\repos\Maze Game\bin\Debug\net6.0\Maze Game.pdb
+C:\Users\Amar\source\repos\Maze Game\obj\Debug\net6.0\Maze Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amar\source\repos\Maze Game\obj\Debug\net6.0\Maze Game.AssemblyInfoInputs.cache
+C:\Users\Amar\source\repos\Maze Game\obj\Debug\net6.0\Maze Game.AssemblyInfo.cs
+C:\Users\Amar\source\repos\Maze Game\obj\Debug\net6.0\Maze Game.csproj.CoreCompileInputs.cache
+C:\Users\Amar\source\repos\Maze Game\obj\Debug\net6.0\Maze Game.dll
+C:\Users\Amar\source\repos\Maze Game\obj\Debug\net6.0\refint\Maze Game.dll
+C:\Users\Amar\source\repos\Maze Game\obj\Debug\net6.0\Maze Game.pdb
+C:\Users\Amar\source\repos\Maze Game\obj\Debug\net6.0\Maze Game.genruntimeconfig.cache
+C:\Users\Amar\source\repos\Maze Game\obj\Debug\net6.0\ref\Maze Game.dll
